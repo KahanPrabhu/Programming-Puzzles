@@ -1,3 +1,11 @@
+/*
+Author: Kahan Prabhu
+Email: kprabhu@ncsu.edu
+About the program:
+This program successfully generates all possible combinations of a number.
+Example:
+123 becomes 123, 132, 213, 231, 312, 321.
+*/
 import java.util.*;
 import java.io.*;
 public class Permutation
