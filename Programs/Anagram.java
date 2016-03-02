@@ -1,3 +1,9 @@
+/*
+Author: Kahan Prabhu
+Email: kprabhu@ncsu.edu
+This program successfully checks if two strings are anagrams to each other.
+*/
+
 import java.util.*;
 import java.io.*;
 public class Anagram
