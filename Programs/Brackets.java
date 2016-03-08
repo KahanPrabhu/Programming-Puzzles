@@ -1,3 +1,9 @@
+/*
+Author: Kahan Prabhu
+Email: kprabhu@ncsu.edu
+Description: This program successfully checks if in an expression, the various brackets, {,(, and [ are perfectly balanced.
+
+*/
 import java.io.*;
 public class Brackets
 {
