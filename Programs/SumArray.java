@@ -1,3 +1,10 @@
+/*
+Author: Kahan Prabhu
+Email: kprabhu@ncsu.edu
+Description: This program returns the pairs of elements in an array which total up to a pre-specified sum. 
+For example, for the array {3, 4, 5, 6, 15, 18, 20} and the prespecified sum = 23, the pairs will be (5,18) and (3,20).
+
+*/
 import java.io.*;
 public class SumArray
 {
